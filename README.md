@@ -45,4 +45,4 @@ Acquired API credentials from OpenWeatherMap website.
 Created async functions to fetch weather data and store it on my local server.
 Set up a function that updated UI dynamically.
 ## Final Output
-
+![](weather-journal-app-bahr.jpg)
